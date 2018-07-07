@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fe4617ed2998344d5ba41a18ad2ccd16
+timeCreated: 1530006132
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Corpulent Caps BRK
+  fontNames:
+  - Corpulent Caps BRK
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
